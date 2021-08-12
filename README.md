@@ -1,2 +1,2 @@
 # valticus-daily
- Factional newspaper
+ Fictional newspaper
