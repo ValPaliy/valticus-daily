@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "Valticus",
+    title: "Valticus Daily",
     description:
       "Playground for new features @ valticus.pro",
   },
