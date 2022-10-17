@@ -4,9 +4,6 @@ path: /about
 title: About me
 ---
 
-<div align="center" style="align:center; height:auto; max-width: 100%; border:none; display:block;">
-<img src='/img/ValPaliy.jpg' loading='lazy' alt='Val Paliy' title='Val Paliy' style="border-radius: 50%;"></div>
-
 # Val Paliy
 
 Managing [Valticus](https://www.linkedin.com/company/valticus/) everywhere :)
