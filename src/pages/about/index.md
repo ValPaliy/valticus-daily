@@ -4,7 +4,7 @@ path: /about
 title: About me
 ---
 
-<div class="align_center" style="align:right; height:auto; max-width: 100%; border:none; display:block;">
+<div align="center" style="align:center; height:auto; max-width: 100%; border:none; display:block;">
 <img src='/img/ValPaliy.jpg' loading='lazy' alt='Val Paliy' title='Val Paliy' style="border-radius: 50%;"></div>
 
 # Val Paliy
