@@ -1,8 +1,9 @@
 ---
-templateKey: "about-page"
+templateKey: about-page
 path: /about
 title: About me
 ---
+![](/img/valpaliy.jpg)
 
 # Val Paliy
 
@@ -170,6 +171,6 @@ with my help, did.
 
 ## Education
 
-- Nacional'nij Universitet 'Kievo-Mogiljans'ka Akademija', Masters, Computer Science · (1999 - 2006)
-- Ashland University, Non-degree (Exchange Student), American Studies · (2001 - 2002)
-- Biddeford High School, Non-degree, Exchange Studies · (1997 - 1998)
+* Nacional'nij Universitet 'Kievo-Mogiljans'ka Akademija', Masters, Computer Science · (1999 - 2006)
+* Ashland University, Non-degree (Exchange Student), American Studies · (2001 - 2002)
+* Biddeford High School, Non-degree, Exchange Studies · (1997 - 1998)
