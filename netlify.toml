@@ -1,14 +1,5 @@
-[build]
-  publish = "public"
-  command = "npm run build"
-[build.environment]
-  NODE_VERSION = "14.15.0"
-  YARN_VERSION = "1.22.4"
-  YARN_FLAGS = "--no-ignore-optional"
 [[redirects]]
-  from = "https://valticus-daily.netlify.app"
-  to = "https://valticus.pro"
-  status = 200
-  force = true # COMMENT: ensure that we always redirect
-  headers = {X-From = "Netlify"}
-  signed = "API_SIGNATURE_TOKEN"
+  from = "/*"
+  to = "https://valticus.pro/:splat"
+  status = 301
+  force = true
